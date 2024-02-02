@@ -72,7 +72,7 @@ streamlit.header('Fruity Fruit Advice!')
  
 # Let's put a pick list here so they can pick the fruit they want to include
 
-add_my_fruit = streamlit.text_input('What fruit would you like to add?','Kiwi44')
+add_my_fruit = streamlit.text_input('What fruit would you like to add?')
 streamlit.write('The user entered ', add_my_fruit)
 
 
