@@ -72,8 +72,8 @@ streamlit.text ('What fruit would you like to add?')
  
 # Let's put a pick list here so they can pick the fruit they want to include
 
-add_my_fruit = streamlit.text_input2('What fruit would you like information about?','Kiwi')
-streamlit.write('The user entered ', add_my_fruit)
+add_my_fruit2 = streamlit.text_input2('What fruit would you like information about?','Kiwi')
+streamlit.write('The user entered ', add_my_fruit2)
 
 
 
