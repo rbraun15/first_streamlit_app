@@ -64,3 +64,13 @@ my_data_rows = my_cur.fetchall()
 streamlit.header("The fruit load list contains:")
 #streamlit.dataframe(my_data_row)
 streamlit.dataframe(my_data_rows)
+
+streamlit.header('Fruity Fruit Advice!')
+streamlit.text ('What fruit would you like to add?')
+
+#  allow the end user to add a fruit to the list
+ 
+
+
+
+
