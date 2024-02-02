@@ -72,7 +72,7 @@ streamlit.text ('What fruit would you like to add?')
  
 # Let's put a pick list here so they can pick the fruit they want to include
 
-fruit_choice4 = streamlit.text_input('What fruit would you like information about?','Kiwi')
+fruit_choice4 = streamlit.text_input('What fruit would you like information about?444','Kiwi44')
 
 
 
